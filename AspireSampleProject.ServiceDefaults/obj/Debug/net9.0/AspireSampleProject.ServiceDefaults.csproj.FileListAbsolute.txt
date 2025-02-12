@@ -1,0 +1,12 @@
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\bin\Debug\net9.0\AspireSampleProject.ServiceDefaults.deps.json
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\bin\Debug\net9.0\AspireSampleProject.ServiceDefaults.dll
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\bin\Debug\net9.0\AspireSampleProject.ServiceDefaults.pdb
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\AspireSampleProject.ServiceDefaults.csproj.AssemblyReference.cache
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\AspireSampleProject.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\AspireSampleProject.ServiceDefaults.AssemblyInfoInputs.cache
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\AspireSampleProject.ServiceDefaults.AssemblyInfo.cs
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\AspireSampleProject.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\AspireSampleProject.ServiceDefaults.dll
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\refint\AspireSampleProject.ServiceDefaults.dll
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\AspireSampleProject.ServiceDefaults.pdb
+C:\My Learning\Aspire\AspireSampleProject\AspireSampleProject.ServiceDefaults\obj\Debug\net9.0\ref\AspireSampleProject.ServiceDefaults.dll
